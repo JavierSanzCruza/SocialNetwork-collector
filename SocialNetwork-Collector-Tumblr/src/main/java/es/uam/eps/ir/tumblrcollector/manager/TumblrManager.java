@@ -33,6 +33,7 @@ public class TumblrManager
         );
     }
     
+    
     /**
      * Gets an instance of TumblrManager.
      * @return The new instance.
