@@ -1,0 +1,10 @@
+SocialNetwork-Collector-Tumblr/target/
+SocialNetwork-Collector-Utils/target/
+SocialNetwork-Collector-Twitter/target/
+target/
+nbactions.xml
+nb-configuration.xml
+*/nb-actions.xml
+*/nbactions-*
+*/nbactions.xml
+*/nb-configuration.xml
